@@ -1,0 +1,20 @@
+graph abstract {
+nodo_8->nodo_2(2);
+nodo_8->nodo_2;
+nodo_2->nodo_4(7);
+nodo_2->nodo_4;
+nodo_2->nodo_5(8);
+nodo_2->nodo_5;
+nodo_3->nodo_6(1);
+nodo_3->nodo_6;
+nodo_5->nodo_8(8);
+nodo_5->nodo_8;
+nodo_3->nodo_1(9);
+nodo_3->nodo_1;
+nodo_5->nodo_7(4);
+nodo_5->nodo_7;
+nodo_2->nodo_9(4);
+nodo_2->nodo_9;
+nodo_8->nodo_3(11);
+nodo_8->nodo_3;
+}
